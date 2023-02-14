@@ -8,7 +8,6 @@
 - [📖 About the Project](#about-project)
 - [💻 Getting Started](#getting-started)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -37,6 +36,15 @@
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **A Calculator**
+- **Random Math-related quotes**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
@@ -74,14 +82,6 @@ In order to run this project you need visual studio code or any text editor of y
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Online art viewing platform**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -103,7 +103,7 @@ If you like this project kindly show your support or make a contribution to it.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to acknowledge Cindy Shin in Behance who is responsible for the original idea design
+I would like to acknowledge the entire Microverse community for the help provided while building this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
