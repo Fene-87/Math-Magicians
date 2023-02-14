@@ -8,6 +8,7 @@
 - [📖 About the Project](#about-project)
 - [💻 Getting Started](#getting-started)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -79,6 +80,14 @@ In order to run this project you need visual studio code or any text editor of y
 
 - GitHub: [@Fene-87](https://github.com/Fene-87)
 - LinkedIn: [Mark Fenekayas](https://www.linkedin.com/in/mark-fenekayas-67378220b/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Full website with three sub pages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
