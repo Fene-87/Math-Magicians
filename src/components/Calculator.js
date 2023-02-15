@@ -13,16 +13,14 @@ const Calculator = () => {
   return (
     <section className="calculator-section">
       <div className="answer-section">
-        <span>
-          {total}
-          {next}
-          {operation}
-        </span>
+        <span>{total}</span>
+        <span>{operation}</span>
+        <span>{next}</span>
       </div>
 
       <div className="buttons-section">
-        <span className="button" onClick={makeCalculation}>Ac</span>
-        <span className="button" onClick={makeCalculation}>+/=</span>
+        <span className="button" onClick={makeCalculation}>AC</span>
+        <span className="button" onClick={makeCalculation}>+/-</span>
         <span className="button" onClick={makeCalculation}>%</span>
         <span className="button operator" onClick={makeCalculation}>/</span>
         <span className="button" onClick={makeCalculation}>7</span>
