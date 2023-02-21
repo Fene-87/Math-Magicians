@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar > h1 {
+
+}
+
+.navbar > ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.navitem {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
