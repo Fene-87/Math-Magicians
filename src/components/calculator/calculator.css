@@ -1,37 +1,36 @@
 .calculator-section {
-    width: 100%;
-    max-width: 500px;
-    border: 1px solid #acacac;
-  }
-  
-  .answer-section {
-    width: 100%;
-    max-width: 490px;
-    border: 1px solid #d3d3d3;
-    background-color: #acacac;
-    padding: 12px 0;
-    display: flex;
-    justify-content: flex-end;
-    padding-right: 10px;
-    color: #fff;
-  }
-  
-  .buttons-section {
-    display: grid;
-    grid-template-columns: repeat(4, auto);
-    background-color: #e5e4e2;
-  }
-  
-  .button {
-    padding: 12px 0;
-    border: 1px solid #d3d3d3;
-  }
-  
-  .item17 {
-    grid-column: 1 / span 2;
-  }
-  
-  .operator {
-    background-color: #ed7014;
-  }
-  
+  width: 100%;
+  max-width: 500px;
+  border: 1px solid #acacac;
+}
+
+.answer-section {
+  width: 100%;
+  max-width: 490px;
+  border: 1px solid #d3d3d3;
+  background-color: #acacac;
+  padding: 12px 0;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 10px;
+  color: #fff;
+}
+
+.buttons-section {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  background-color: #e5e4e2;
+}
+
+.button {
+  padding: 12px 0;
+  border: 1px solid #d3d3d3;
+}
+
+.item17 {
+  grid-column: 1 / span 2;
+}
+
+.operator {
+  background-color: #ed7014;
+}
