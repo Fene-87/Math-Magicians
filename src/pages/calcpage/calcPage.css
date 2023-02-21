@@ -1,0 +1,14 @@
+.calcContainer {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10rem;
+    align-items: flex-start;
+    margin-top: 50px;
+}
+
+.calcText {
+    padding: 0;
+    font-size: 32px;
+    font-weight: 500;
+    margin: 0;
+}

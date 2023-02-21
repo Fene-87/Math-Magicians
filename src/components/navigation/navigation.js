@@ -23,7 +23,7 @@ const Navigation = () => {
       <ul>
         <li className="navitem" onClick={handleHome}>Home</li>
         <li className="navitem" onClick={handleCalc}>Calculator</li>
-        <li className="navitem" onClick={handleQuote}>Quote</li>
+        <li className="navitem last" onClick={handleQuote}>Quote</li>
       </ul>
     </div>
   );

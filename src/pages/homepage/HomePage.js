@@ -1,12 +1,13 @@
 import React from 'react';
-import Navigation from '../components/navigation/navigation';
+import './homePage.css';
+import Navigation from '../../components/navigation/navigation';
 
 const HomePage = () => (
   <div>
     <Navigation />
-    <section>
-      <h2>Welcome to our page!</h2>
-      <p>
+    <section className="homeContainer">
+      <h2 className="homeHeader">Welcome to our page!</h2>
+      <p className="homeText">
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit soluta nemo
         possimus excepturi aut, dolorem accusantium laborum in ipsa dolore, voluptas perferendis
         illo ullam delectus nulla saepe harum provident error quis. Officia, similique. Perspiciatis
@@ -16,7 +17,7 @@ const HomePage = () => (
         saepe odio vitae, dolore sint. Blanditiis deserunt mollitia facere sit.
       </p>
 
-      <p>
+      <p className="homeText">
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit soluta nemo
         possimus excepturi aut, dolorem accusantium laborum in ipsa dolore, voluptas perferendis
         illo ullam delectus nulla saepe harum provident error quis. Officia, similique. Perspiciatis

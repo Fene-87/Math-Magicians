@@ -1,8 +1,9 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import HomePage from './pages/HomePage';
-import CalcPage from './pages/CalcPage';
-import QuotePage from './pages/QuotePage';
+
+import CalcPage from './pages/calcpage/CalcPage';
+import QuotePage from './pages/quotepage/QuotePage';
+import HomePage from './pages/homepage/HomePage';
 
 function App() {
   return (
