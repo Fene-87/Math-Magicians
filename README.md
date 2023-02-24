@@ -38,6 +38,15 @@
   </ul>
 </details>
 
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **A Calculator**
+- **Random Math-related quotes**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
@@ -78,7 +87,7 @@ In order to run this project you need visual studio code or any text editor of y
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Online art viewing platform**
+- [ ] **Full website with three sub pages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,7 +112,7 @@ If you like this project kindly show your support or make a contribution to it.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to acknowledge Cindy Shin in Behance who is responsible for the original idea design
+I would like to acknowledge the entire Microverse community for the help provided while building this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
