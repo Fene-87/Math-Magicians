@@ -53,7 +53,7 @@
 
 Click on the link to view the Art Summit website.
 
-- [Coming Soon]()
+- [Live Demo]('https://math-magicians-bejz.onrender.com')
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
